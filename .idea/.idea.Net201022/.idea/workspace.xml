@@ -3,18 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="40364df0-e649-428c-a748-51370fff0e0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Net201022/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Net201022/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/Authorization.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/Authorization.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PhotonUIController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PhotonUIController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabUIController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabUIController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/UICanvas.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/UICanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/AccountDataWindowBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/AccountDataWindowBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CreateAccountWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CreateAccountWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/EnterInGameWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/EnterInGameWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabAccountManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabAccountManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabLogin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayfabLogin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/SignInWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/SignInWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/WaitingInfoController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/WaitingInfoController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Root/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/Scenes/Game.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Root/Scenes/Game.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +105,7 @@
       <workItem from="1687531408750" duration="326000" />
       <workItem from="1687531758435" duration="2098000" />
       <workItem from="1687875027957" duration="3254000" />
+      <workItem from="1688141294262" duration="1479000" />
     </task>
     <servers />
   </component>
