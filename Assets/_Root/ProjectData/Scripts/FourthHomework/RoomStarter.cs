@@ -16,12 +16,14 @@ public class RoomStarter : MonoBehaviour
 
     private void Start()
     {
-        _currentRoomIsOpen = PhotonNetwork.CurrentRoom.IsOpen;
+        _currentRoomIsOpen = false;
         UpdateButtonsStates();
 
         _buttonOpenRoom.onClick.AddListener(OpenRoom);
         _buttonCloseRoom.onClick.AddListener(CloseRoom);
         _buttonLeaveRoom.onClick.AddListener(Disconnect);
+
+        PhotonNetwork.Instantiate("Player", Vector3.zero, Quaternion.identity);
     }
 
     private void CloseRoom()
@@ -51,6 +53,16 @@ public class RoomStarter : MonoBehaviour
     }
 
     private void Update()
+    {
+        bool connected = PhotonNetwork.IsConnected;
+
+        if (connected)
+        {
+            UpdateRoomButtons();
+        }
+    }
+
+    private void UpdateRoomButtons()
     {
         if (PhotonNetwork.CurrentRoom.IsOpen != _currentRoomIsOpen)
         {
