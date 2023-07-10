@@ -3,21 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="40364df0-e649-428c-a748-51370fff0e0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Net201022/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Net201022/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/LobbyStarter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/LobbyStarter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/NewRoomCanvas.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/NewRoomCanvas.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomCreator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomCreator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomListCanvas.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomListCanvas.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomStarter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomStarter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomUpdater.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/RoomUpdater.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Root/Scenes/Room.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Root/Scenes/Room.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CanvasHPController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CanvasHPController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CanvasHPRotator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/CanvasHPRotator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/ProjectData/Scripts/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/Scenes/Lobby.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Root/Scenes/Lobby.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
@@ -104,6 +96,9 @@
       <workItem from="1688141294262" duration="1479000" />
       <workItem from="1688482156966" duration="3795000" />
       <workItem from="1688734311690" duration="1865000" />
+      <workItem from="1688816457528" duration="595000" />
+      <workItem from="1688993640310" duration="796000" />
+      <workItem from="1688994608277" duration="90000" />
     </task>
     <servers />
   </component>
